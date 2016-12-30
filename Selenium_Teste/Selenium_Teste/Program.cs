@@ -10,6 +10,8 @@ namespace Selenium_Teste
     {
         static void Main(string[] args)
         {
+            var teste = new TestesAutomatizados();
+            teste.Busca();
         }
     }
 }
